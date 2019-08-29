@@ -1,0 +1,29 @@
+<Configuration>
+  <CompletionStatisticsManager />
+  <EditorManager>
+    <RecentFiles>
+      <File id="08EAEB45-04C6-43E8-BCBE-F41BDCF591EE/f:ODMDataFactoryLog.cs" caret="661" visual-x="0" visual-y="0" />
+      <File id="08EAEB45-04C6-43E8-BCBE-F41BDCF591EE/f:odmdatafactory.cs" caret="8375" visual-x="0" visual-y="3434" />
+      <File id="08EAEB45-04C6-43E8-BCBE-F41BDCF591EE/f:Connection.cs" caret="1836" visual-x="0" visual-y="833" />
+    </RecentFiles>
+  </EditorManager>
+  <FileStructureView>
+    <AutoScrollToSource>False</AutoScrollToSource>
+    <TrackCaretLocation>False</TrackCaretLocation>
+  </FileStructureView>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <ReFormatCode>
+    <OptimizeUsings>False</OptimizeUsings>
+    <RemoveRedundantThis>False</RemoveRedundantThis>
+    <ShortenReferences>False</ShortenReferences>
+    <DecorateModifiers>False</DecorateModifiers>
+  </ReFormatCode>
+  <SharedSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </SharedSolutionDisabledTemplatesManager>
+  <UserSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </UserSolutionDisabledTemplatesManager>
+</Configuration>
